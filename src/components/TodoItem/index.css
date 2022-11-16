@@ -1,0 +1,19 @@
+.Todo-element-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.todo-title {
+  font-size: 25px;
+  font-weight: bold;
+}
+.button-style {
+  height: 25px;
+  width: 70px;
+  color: #ff8542;
+  border-radius: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  border-color: #ff8542;
+  outline: none;
+}
